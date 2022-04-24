@@ -1,5 +1,5 @@
 # Flight Delays and Cancellations with Data Dashboards in Tableau
-Scholar: Wesam Ahmed
+Scholar: Wesam Ahmed<br>
 Program: Udacity Data advanced Nanodegree<br>
 ## Introduction
 - This project consists of building data dashboards for visual representation using **Tableau**. The corresponding datasets document a variety of airline information including delays, cancellations, dates, and destinations. The dataset is from 2015 for major airlines and airports.
